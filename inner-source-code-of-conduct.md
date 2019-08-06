@@ -6,7 +6,7 @@ This code of conduct outlines our expectations for participants who wish to cont
 
 We actively encourage you to contribute to the project to:
 
-* Help make each others lives easier.
+* Help make each other's lives easier.
 * Leave things better than when they were found.
 * Improve it - Use it, Extend it, Create it, Clean it.
 * Help us to lower the barrier for experiments based on this project.
